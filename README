@@ -1,3 +1,5 @@
+2010/4/14 mixiエコーがらっと変わっていたのでそのうち対応させます．
+
 mixiエコーにポストしたり、タイムラインをパースして返します。
 simplehtmldomを使ってパースしています。http://sourceforge.net/projects/simplehtmldom/
 pearのHTTP/Clientも必要です。
